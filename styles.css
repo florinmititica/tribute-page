@@ -1,0 +1,11 @@
+body{
+  margin: 50px;
+}
+.grey-background{
+  background-color: grey;
+}
+
+h6{
+	color: #999999;
+	font-style: italic;
+}
